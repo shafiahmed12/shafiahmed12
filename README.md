@@ -18,5 +18,14 @@
 - 🌱 I’m currently learning **Go**
 - 👯 I’m open to collaborating on open-source/commercial projects
 - 💬 Ping me anything about **Web Development** there's always something to learn
-
+- 💬 Reach me out on my email **shafiahmed120@gmail.com**
 ---
+Let's connect and make something together!
+<p>
+  <a href="https://www.linkedin.com/in/shafi-ahmed-shaik-776420118/">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="https://github.com/shafiahmed12">
+    <img src="https://skillicons.dev/icons?i=github"/>
+  </a>
+</p>
