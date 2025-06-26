@@ -10,7 +10,7 @@
 
 👨‍🏭 My extensive app development background ensures I'm always at the forefront of innovative web app engineering.
 
-🛠️ I thrive in Agile environments, where I've spent more than four years crafting web applications, emphasizing iterations, continuous integration, and unwavering quality.
+🛠️ I thrive in Agile environments, where I've spent more than five years crafting web applications, emphasizing iterations, continuous integration, and unwavering quality.
 
 ---
 
