@@ -6,7 +6,7 @@
 </p>
 
 
-🚀 Experienced Software Engineer with over 4 years in product development. Proven track record in modernizing legacy features, enhancing test coverage, and resolving production issues. Skilled in UI design, code debugging, and cross-functional collaboration. Proficient in version control, API performance improvements, and delivering high-quality client solutions.
+🚀 Experienced Software Engineer with over 5 years in product development. Proven track record in modernizing legacy features, enhancing test coverage, and resolving production issues. Skilled in UI design, code debugging, and cross-functional collaboration. Proficient in version control, API performance improvements, and delivering high-quality client solutions.
 
 👨‍🏭 My extensive app development background ensures I'm always at the forefront of innovative web app engineering.
 
